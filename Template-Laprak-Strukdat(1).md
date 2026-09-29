@@ -39,15 +39,12 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
+https://github.com/zemmmyy07/LAPRAK-STRUKTUR-DATA/blob/main/UNGUIDED1/Screenshot%202026-09-30%20000625.png
 
 ##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+https://github.com/zemmmyy07/LAPRAK-STRUKTUR-DATA/blob/main/UNGUIDED1/Screenshot%202026-09-30%20000643.png
 
-penjelasan unguided 1 
+## penjelasan unguided 1 
 Program pada nomor satu bekerja dengan membaca dua masukan bilangan bertipe float lalu secara langsung melakukan empat operasi aritmatika dasar, yaitu penjumlahan, pengurangan, perkalian, dan pembagian. Agar program tidak mengalami kesalahan sistem saat mengeksekusi perhitungan pembagian, kode dilengkapi dengan pengondisian untuk memastikan bahwa bilangan pembagi tidak bernilai nol. Seluruh hasil perhitungan tersebut kemudian dicetak kembali ke layar dengan format desimal yang rapi.
 
 ### 2. Buatlah sebuah program yang menerima masukan angka dan mengeluarkan output nilai angka tersebut dalam bentuk tulisan. Angka yang akan di- input-kan user adalah bilangan bulat positif mulai dari 0 s.d 100 
@@ -107,16 +104,14 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
+https://github.com/zemmmyy07/LAPRAK-STRUKTUR-DATA/blob/main/UNGUIDED2/Screenshot%202026-09-30%20002227.png
 
 ##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+https://github.com/zemmmyy07/LAPRAK-STRUKTUR-DATA/blob/main/UNGUIDED2/Screenshot%202026-09-30%20002236.png
 
 ## penjelasan unguided 2
 Program pada nomor dua bekerja dengan mengonversi angka bulat dari rentang 0 sampai 100 menjadi bentuk tulisan terbilang. Logikanya diawali dengan memvalidasi rentang input, lalu memetakan angka dasar 0 sampai 11 serta angka 100 secara langsung ke dalam kata. Untuk angka belasan di rentang 12 hingga 19, program mengambil sisa angka setelah dikurangi 10 dan menambahkan kata "belas" di belakangnya. Sedangkan untuk angka puluhan dari 20 hingga 99, program memecah nilai tersebut menggunakan operasi pembagian untuk menentukan kata puluhan dan operasi sisa bagi untuk menentukan kata satuan, lalu menggabungkannya menjadi satu kalimat terbilang yang utuh.
+
 ### 3. Buatlah program yang dapat memberikan input dan output sbb.
 
 ```C++
@@ -152,18 +147,16 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
+https://github.com/zemmmyy07/LAPRAK-STRUKTUR-DATA/blob/main/UNGUIDED3/Screenshot%202026-09-30%20003820.png
 
 ##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+https://github.com/zemmmyy07/LAPRAK-STRUKTUR-DATA/blob/main/UNGUIDED3/Screenshot%202026-09-30%20003838.png
 
 ## penjelasan unguided 3
 Program pada nomor tiga bekerja dengan menggunakan perulangan bertingkat untuk mencetak pola angka simetris yang semakin menyempit ke bawah. Prosesnya dikontrol oleh perulangan utama yang berjalan menurun dari angka masukan hingga mencapai nol. Pada setiap baris, program mencetak spasi di bagian awal agar tampilan terdorong ke tengah, lalu mencetak urutan angka menurun di sebelah kiri, dilanjutkan dengan karakter bintang tepat di tengah, dan diakhiri dengan urutan angka menaik di sebelah kanan. Ketika perulangan mencapai angka nol pada baris paling akhir, program hanya akan mencetak karakter bintang di tengah tanpa ada deretan angka di sekitarnya.
+
 ## Kesimpulan
-...
+### Ketiga program ini melatih logika pemrograman dasar, mulai dari penanganan tipe data desimal dan validasi pembagian nol, pemecahan angka menjadi kata terbilang, hingga penggunaan perulangan bertingkat untuk mencetak pola simetris. Secara keseluruhan, ketiga latihan ini memberikan fondasi utama dalam penyusunan alur algoritma, perhitungan logika matematika, serta manipulasi tampilan output.
 
 ## Referensi
 [1] Triase. (2020). Diktat Edisi Revisi : STRUKTUR DATA. Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN. 
