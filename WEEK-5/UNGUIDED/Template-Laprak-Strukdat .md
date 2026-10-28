@@ -555,7 +555,8 @@ int main()
 ### Output Unguided 1 :
 
 ##### Output 1
-![alt text](<Screenshot 2026-10-28 192803.png>)
+<img width="1042" height="117" alt="Screenshot 2026-10-28 192803" src="https://github.com/user-attachments/assets/4a8352a0-b619-4050-bb58-4c677587b8bd" />
+
 
 penjelasan unguided 1 : 
 Program Unguided 1 membuat singly linked list, lalu memasukkan nilai 2, 0, 8, 12, dan 9 satu per satu menggunakan `insertFirst`. Karena setiap nilai ditambahkan ke bagian awal list, urutan tampilannya menjadi terbalik, yaitu `9 12 8 0 2`.
@@ -682,7 +683,8 @@ int main()
 ### Output Unguided 2 :
 
 ##### Output 1
-![alt text](<Screenshot 2026-10-28 192922.png>)
+<img width="938" height="153" alt="Screenshot 2026-10-28 192922" src="https://github.com/user-attachments/assets/fe80707c-67b5-4d2f-98ac-955be4d41b47" />
+
 
 penjelasan unguided 2 :
 Program Unguided 2 membentuk singly linked list dengan nilai 2, 0, 8, 12, dan 9, lalu mencari nilai 8 menggunakan fungsi `findElm`. Fungsi menelusuri node dari awal hingga nilai ditemukan atau mencapai akhir list. Karena nilai 8 ditemukan, program menampilkan pesan `8 ditemukan dalam list`.
@@ -807,7 +809,8 @@ int main()
 ### Output Unguided 3 :
 
 ##### Output 1
-![alt text](<Screenshot 2026-10-28 193031.png>)
+<img width="931" height="131" alt="Screenshot 2026-10-28 193031" src="https://github.com/user-attachments/assets/11d615ab-769b-42e8-b521-424d3342978c" />
+
 
 penjelasan unguided 3 :
 Program Unguided 3 membuat singly linked list yang berisi nilai 2, 0, 8, 12, dan 9. Fungsi `sumInfo` menelusuri setiap node dan menjumlahkan nilainya, kemudian hasilnya ditampilkan. Total seluruh nilai adalah 31.
