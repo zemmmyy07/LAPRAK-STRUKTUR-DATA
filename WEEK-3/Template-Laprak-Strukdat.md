@@ -100,7 +100,7 @@ int main () {
 }
 ```
 ### Output Unguided 1 :
-
+<img width="973" height="606" alt="Screenshot 2026-11-18 202620" src="https://github.com/user-attachments/assets/cdddb60f-91b4-4b42-b1c3-b8c942695b79" />
 
 ##### penjelasan unguided 1 :                                                                Program ini menggunakan `struct mahasiswa` dan array `dataMahasiswa` untuk menyimpan data mahasiswa serta nilai UTS, UAS, dan tugas dalam satu struktur yang terorganisir, lalu fungsi `nilaiAkhir()` dengan parameter pointer menghitung nilai akhir berdasarkan bobot 0,3 untuk UTS, 0,4 untuk UAS, dan 0,3 untuk tugas, sehingga hasil perhitungan dapat disimpan dan ditampilkan secara otomatis pada setiap mahasiswa.
 
@@ -156,9 +156,9 @@ int main()
 }   
 ```
 ### Output Unguided 2 :
+<img width="1087" height="167" alt="Screenshot 2026-11-18 202747" src="https://github.com/user-attachments/assets/6605faa5-3e8d-45c4-9bce-36838b39eea0" />
 
 ##### Output 1
-
 
 ##### penjelasan unguided 2 :                                                               Program ini mengimplementasikan ADT pada mata pelajaran dengan membagi kodenya menjadi tiga file, yaitu `pelajaran.h` untuk deklarasi `struct` dan fungsi, `pelajaran.cpp` untuk implementasi pembuatan objek dan menampilkan data, serta `main.cpp` untuk menjalankan program utama; dengan cara ini, struktur data `pelajaran` dapat dibuat dan digunakan secara modular sehingga lebih rapi, mudah dipahami, dan mudah dikembangkan.
 
@@ -229,9 +229,9 @@ int main ()
 }
 ```
 ### Output Unguided 3 :
+<img width="947" height="552" alt="Screenshot 2026-11-18 202857" src="https://github.com/user-attachments/assets/40098f48-8e56-4f6d-aa65-6f32c54d405b" />
 
 ##### Output 1
-
 
 #### penjelasan unguided 3 :                                                                Program ini menggunakan array 3 dimensi untuk merepresentasikan dua matriks 3x3 yang disimpan dalam satu variabel `data`, lalu prosedur `tampilkan()` digunakan untuk menampilkan isi kedua matriks tersebut, sedangkan fungsi `ubah()` dan `ubahmatriks()` bekerja untuk menukar elemen pada posisi tertentu antara matriks pertama dan matriks kedua sesuai input yang diberikan pengguna, sehingga program dapat menunjukkan bagaimana mekanisme pengolahan data dengan array dan pointer diterapkan dalam praktik.
 
