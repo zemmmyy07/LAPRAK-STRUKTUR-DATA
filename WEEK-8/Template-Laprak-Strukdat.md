@@ -578,7 +578,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Output Unguided 2]
+![Output Unguided 2] ppp
 #### penjelasan unguided 2
 Menggunakan array dengan head dan tail yang bergerak. Dequeue hanya menggeser head; jika tail mencapai batas array dan masih ada ruang di depan, elemen dipindahkan ke awal sebelum enqueue. Pada program, setelah nilai 5, 2, dan 7 dimasukkan, nilai 5, 2, dan 7 dikeluarkan secara berurutan sehingga nilai 4 tersisa.
 
