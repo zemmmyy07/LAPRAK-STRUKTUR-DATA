@@ -447,7 +447,9 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Output Unguided 1]
+![Output Unguided 1] 
+<img width="1007" height="368" alt="Screenshot 2026-11-25 222407" src="https://github.com/user-attachments/assets/d20c8312-1791-4f4c-92c8-33068bc2315b" />
+
 
 #### penjelasan unguided 1 
 Menggunakan array berkapasitas lima dengan head tetap di awal dan tail bergerak. Saat dequeue, elemen tersisa digeser ke depan agar ruang kosong dapat digunakan kembali. Program memasukkan 5, 2, dan 7, lalu menghapus 5; setelah 4 ditambahkan, dua dequeue berikutnya menyisakan 4.
@@ -578,7 +580,10 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Output Unguided 2] ppp
+![Output Unguided 2] 
+<img width="1006" height="370" alt="Screenshot 2026-11-25 222612" src="https://github.com/user-attachments/assets/ecc32c8d-40c6-487d-8286-70cec77e1c77" />
+
+
 #### penjelasan unguided 2
 Menggunakan array dengan head dan tail yang bergerak. Dequeue hanya menggeser head; jika tail mencapai batas array dan masih ada ruang di depan, elemen dipindahkan ke awal sebelum enqueue. Pada program, setelah nilai 5, 2, dan 7 dimasukkan, nilai 5, 2, dan 7 dikeluarkan secara berurutan sehingga nilai 4 tersisa.
 
@@ -704,6 +709,9 @@ int main() {
 
 ##### Output 1
 ![Output Unguided 3]
+<img width="1007" height="377" alt="Screenshot 2026-11-25 222723" src="https://github.com/user-attachments/assets/0c0311c4-825f-45a7-bfd8-ba3582cbf878" />
+
+
 #### penjelasan unguided 3
 Menggunakan array melingkar berkapasitas lima. Head dan tail bergerak melingkar dengan operasi modulo, sementara queue penuh saat posisi berikutnya dari tail bertemu head. Program memasukkan 5, 2, dan 7, menghapus 5, lalu menambahkan 4; dua penghapusan berikutnya menyisakan 4.
 
